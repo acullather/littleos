@@ -95,10 +95,10 @@ void fb_move_cursor(unsigned short pos)
     outb(FB_DATA_PORT,    pos & 0x00FF);
 }
 
-void write(char *buf, unsigned int len) 
+/*void write(char *buf, unsigned int len) 
 {
 	
-}
+}*/
 
 
 

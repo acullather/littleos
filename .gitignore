@@ -1,2 +1,6 @@
 bochslog.txt
-
+*.elf
+*.iso
+*.o
+stage2_eltorito
+iso/
